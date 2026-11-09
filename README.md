@@ -6,12 +6,16 @@
 
 ## 기술 스택
 
-- **언어·프레임워크:** Java, Spring Boot, Python, FastAPI, TypeScript, Next.js
-- **데이터·AI:** PostgreSQL, MySQL, pgvector, RAG, LLM API
-- **인프라·도구:** AWS, Docker, GitHub Actions, Terraform
+- **언어·프레임워크:** Java, Spring Boot, Python, FastAPI, c++
+- **데이터·AI:** PostgreSQL, MySQL, pgvector, RAG, LLM API,neo4j
+- **인프라·도구:** AWS, Docker, GitHub Actions, Terraform,k3s, k6, grafana, prometheus
 
 ## 프로젝트
 
 - **[NEXUS WORLD](https://github.com/kwonwnsduf/nexus-world)** — 경제·산업 데이터를 바탕으로 공급망 충격과 정책 시나리오를 비교하는 시뮬레이션 플랫폼
 - **[FinRisk Radar](https://github.com/kwonwnsduf/finrisk-radar)** — 금융 데이터를 모아 위험 요인과 근거를 분석하고 보여주는 플랫폼
 - **[DayTodo](https://github.com/DayTodo/DayTodo_BE)** — 함께할 하루의 코스를 계획하고 기록하는 서비스의 팀 프로젝트
+
+
+## 블로그
+- ** https://velog.io/@junyeol1009/posts
